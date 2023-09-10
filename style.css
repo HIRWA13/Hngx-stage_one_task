@@ -69,7 +69,6 @@ nav .second a {
         flex-direction: column;
     }
     nav {
-      padding-bottom: 20px;
       flex-direction: row;
       gap: 100px;
     }
@@ -83,20 +82,8 @@ nav .second a {
       height: 100px;
       margin-top: 0;
     }
-  
-    nav h1 {
-      font-size: 18px;
-      text-align: center; 
-    }
-  
-    .second a {
-      font-size: 14px;
-      width: 100%;
-      text-align: center; 
-    }
-  
     main {
-      width: 90%;
+      width: 80%;
       margin: 20px auto; 
     }
   }
